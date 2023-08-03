@@ -1,0 +1,689 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'Microcomputer:inst|cpuClock'
+Slack : -13.428
+TNS   : -3624.378
+
+Type  : Slow 1200mV 125C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -8.155
+TNS   : -121.045
+
+Type  : Slow 1200mV 125C Model Setup 'FPGA_IN_SDSB-'
+Slack : -5.818
+TNS   : -278.814
+
+Type  : Slow 1200mV 125C Model Setup 'FPGA_IN_CDSB-'
+Slack : -5.756
+TNS   : -345.585
+
+Type  : Slow 1200mV 125C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -4.918
+TNS   : -4.947
+
+Type  : Slow 1200mV 125C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -4.439
+TNS   : -293.427
+
+Type  : Slow 1200mV 125C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -4.261
+TNS   : -72.832
+
+Type  : Slow 1200mV 125C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.247
+TNS   : -90.909
+
+Type  : Slow 1200mV 125C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -4.208
+TNS   : -69.758
+
+Type  : Slow 1200mV 125C Model Setup 'CLK_50'
+Slack : -3.435
+TNS   : -171.074
+
+Type  : Slow 1200mV 125C Model Setup 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -1.530
+TNS   : -2.296
+
+Type  : Slow 1200mV 125C Model Hold 'FPGA_IN_SDSB-'
+Slack : -2.550
+TNS   : -57.819
+
+Type  : Slow 1200mV 125C Model Hold 'FPGA_IN_CDSB-'
+Slack : -1.231
+TNS   : -18.561
+
+Type  : Slow 1200mV 125C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -0.124
+TNS   : -0.314
+
+Type  : Slow 1200mV 125C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.284
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'Microcomputer:inst|cpuClock'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.414
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'CLK_50'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 0.645
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Recovery 'FPGA_IN_SDSB-'
+Slack : -5.660
+TNS   : -316.643
+
+Type  : Slow 1200mV 125C Model Recovery 'FPGA_IN_CDSB-'
+Slack : -5.598
+TNS   : -321.591
+
+Type  : Slow 1200mV 125C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -5.462
+TNS   : -10.924
+
+Type  : Slow 1200mV 125C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -4.188
+TNS   : -165.953
+
+Type  : Slow 1200mV 125C Model Recovery 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -4.122
+TNS   : -4.122
+
+Type  : Slow 1200mV 125C Model Recovery 'FPGA_IN_BOARD_RESET-'
+Slack : -3.887
+TNS   : -7.694
+
+Type  : Slow 1200mV 125C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.377
+TNS   : -16.896
+
+Type  : Slow 1200mV 125C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -3.324
+TNS   : -16.101
+
+Type  : Slow 1200mV 125C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.833
+TNS   : -25.159
+
+Type  : Slow 1200mV 125C Model Recovery 'Microcomputer:inst|cpuClock'
+Slack : -1.786
+TNS   : -192.274
+
+Type  : Slow 1200mV 125C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.351
+TNS   : -4.061
+
+Type  : Slow 1200mV 125C Model Removal 'FPGA_IN_SDSB-'
+Slack : -0.423
+TNS   : -3.322
+
+Type  : Slow 1200mV 125C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -0.306
+TNS   : -2.945
+
+Type  : Slow 1200mV 125C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.236
+TNS   : -0.339
+
+Type  : Slow 1200mV 125C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.160
+TNS   : -0.187
+
+Type  : Slow 1200mV 125C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -0.005
+TNS   : -0.010
+
+Type  : Slow 1200mV 125C Model Removal 'Microcomputer:inst|cpuClock'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.129
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Removal 'FPGA_IN_CDSB-'
+Slack : 0.870
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Removal 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : 1.688
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Removal 'FPGA_IN_BOARD_RESET-'
+Slack : 1.971
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 5.073
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FPGA_IN_SDSB-'
+Slack : -3.000
+TNS   : -956.392
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FPGA_IN_CDSB-'
+Slack : -3.000
+TNS   : -62.654
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FPGA_IN_BOARD_RESET-'
+Slack : -3.000
+TNS   : -5.974
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'Microcomputer:inst|cpuClock'
+Slack : -1.487
+TNS   : -529.372
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.487
+TNS   : -118.960
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.712
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 19.702
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 49.700
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.739
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1249.721
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'Microcomputer:inst|cpuClock'
+Slack : -11.389
+TNS   : -3109.626
+
+Type  : Slow 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -6.706
+TNS   : -92.746
+
+Type  : Slow 1200mV -40C Model Setup 'FPGA_IN_SDSB-'
+Slack : -5.201
+TNS   : -253.339
+
+Type  : Slow 1200mV -40C Model Setup 'FPGA_IN_CDSB-'
+Slack : -5.163
+TNS   : -308.701
+
+Type  : Slow 1200mV -40C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -4.179
+TNS   : -4.179
+
+Type  : Slow 1200mV -40C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -3.877
+TNS   : -245.192
+
+Type  : Slow 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.369
+TNS   : -64.655
+
+Type  : Slow 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.294
+TNS   : -36.729
+
+Type  : Slow 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -3.258
+TNS   : -34.641
+
+Type  : Slow 1200mV -40C Model Setup 'CLK_50'
+Slack : -2.990
+TNS   : -137.918
+
+Type  : Slow 1200mV -40C Model Setup 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -1.285
+TNS   : -1.320
+
+Type  : Slow 1200mV -40C Model Hold 'FPGA_IN_SDSB-'
+Slack : -2.290
+TNS   : -49.585
+
+Type  : Slow 1200mV -40C Model Hold 'FPGA_IN_CDSB-'
+Slack : -1.202
+TNS   : -16.164
+
+Type  : Slow 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.214
+TNS   : -1.100
+
+Type  : Slow 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.151
+TNS   : -0.558
+
+Type  : Slow 1200mV -40C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -0.073
+TNS   : -0.202
+
+Type  : Slow 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.063
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'CLK_50'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'Microcomputer:inst|cpuClock'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 0.566
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'FPGA_IN_SDSB-'
+Slack : -5.183
+TNS   : -269.138
+
+Type  : Slow 1200mV -40C Model Recovery 'FPGA_IN_CDSB-'
+Slack : -5.145
+TNS   : -282.216
+
+Type  : Slow 1200mV -40C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -4.783
+TNS   : -9.566
+
+Type  : Slow 1200mV -40C Model Recovery 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -3.634
+TNS   : -3.634
+
+Type  : Slow 1200mV -40C Model Recovery 'FPGA_IN_BOARD_RESET-'
+Slack : -3.325
+TNS   : -6.637
+
+Type  : Slow 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -3.196
+TNS   : -118.821
+
+Type  : Slow 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -2.544
+TNS   : -7.633
+
+Type  : Slow 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -2.508
+TNS   : -7.129
+
+Type  : Slow 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.205
+TNS   : -18.396
+
+Type  : Slow 1200mV -40C Model Recovery 'Microcomputer:inst|cpuClock'
+Slack : -1.351
+TNS   : -135.034
+
+Type  : Slow 1200mV -40C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.075
+TNS   : -3.917
+
+Type  : Slow 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.404
+TNS   : -1.920
+
+Type  : Slow 1200mV -40C Model Removal 'FPGA_IN_SDSB-'
+Slack : -0.361
+TNS   : -5.357
+
+Type  : Slow 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.341
+TNS   : -1.229
+
+Type  : Slow 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -0.254
+TNS   : -0.508
+
+Type  : Slow 1200mV -40C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -0.232
+TNS   : -2.223
+
+Type  : Slow 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.137
+TNS   : -0.274
+
+Type  : Slow 1200mV -40C Model Removal 'Microcomputer:inst|cpuClock'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'FPGA_IN_CDSB-'
+Slack : 0.699
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : 1.506
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'FPGA_IN_BOARD_RESET-'
+Slack : 1.515
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 4.343
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_SDSB-'
+Slack : -3.000
+TNS   : -757.949
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_CDSB-'
+Slack : -3.000
+TNS   : -58.234
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_BOARD_RESET-'
+Slack : -3.000
+TNS   : -5.570
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'Microcomputer:inst|cpuClock'
+Slack : -1.285
+TNS   : -457.460
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.285
+TNS   : -102.800
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -1.285
+TNS   : -14.135
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -1.285
+TNS   : -2.570
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.752
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 19.641
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 49.622
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.612
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1249.612
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'Microcomputer:inst|cpuClock'
+Slack : -5.696
+TNS   : -1519.524
+
+Type  : Fast 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -3.922
+TNS   : -44.101
+
+Type  : Fast 1200mV -40C Model Setup 'FPGA_IN_CDSB-'
+Slack : -2.461
+TNS   : -111.994
+
+Type  : Fast 1200mV -40C Model Setup 'FPGA_IN_SDSB-'
+Slack : -2.396
+TNS   : -92.109
+
+Type  : Fast 1200mV -40C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -2.315
+TNS   : -2.315
+
+Type  : Fast 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -2.061
+TNS   : -42.875
+
+Type  : Fast 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -2.034
+TNS   : -41.309
+
+Type  : Fast 1200mV -40C Model Setup 'CLK_50'
+Slack : -1.676
+TNS   : -82.662
+
+Type  : Fast 1200mV -40C Model Setup 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.665
+TNS   : -26.993
+
+Type  : Fast 1200mV -40C Model Setup 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.518
+TNS   : -92.302
+
+Type  : Fast 1200mV -40C Model Setup 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -0.436
+TNS   : -0.436
+
+Type  : Fast 1200mV -40C Model Hold 'FPGA_IN_SDSB-'
+Slack : -1.238
+TNS   : -31.126
+
+Type  : Fast 1200mV -40C Model Hold 'FPGA_IN_CDSB-'
+Slack : -0.531
+TNS   : -8.687
+
+Type  : Fast 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.159
+TNS   : -2.284
+
+Type  : Fast 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.121
+TNS   : -0.870
+
+Type  : Fast 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'Microcomputer:inst|cpuClock'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'CLK_50'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : 0.211
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -2.725
+TNS   : -5.450
+
+Type  : Fast 1200mV -40C Model Recovery 'FPGA_IN_SDSB-'
+Slack : -2.700
+TNS   : -186.187
+
+Type  : Fast 1200mV -40C Model Recovery 'FPGA_IN_CDSB-'
+Slack : -2.378
+TNS   : -136.372
+
+Type  : Fast 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -2.114
+TNS   : -77.984
+
+Type  : Fast 1200mV -40C Model Recovery 'FPGA_IN_BOARD_RESET-'
+Slack : -2.023
+TNS   : -3.835
+
+Type  : Fast 1200mV -40C Model Recovery 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -1.888
+TNS   : -1.888
+
+Type  : Fast 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.724
+TNS   : -11.037
+
+Type  : Fast 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -1.697
+TNS   : -10.632
+
+Type  : Fast 1200mV -40C Model Recovery 'Microcomputer:inst|cpuClock'
+Slack : -1.098
+TNS   : -127.641
+
+Type  : Fast 1200mV -40C Model Recovery 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.789
+TNS   : -6.126
+
+Type  : Fast 1200mV -40C Model Recovery 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -0.081
+TNS   : -0.162
+
+Type  : Fast 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.200
+TNS   : -1.096
+
+Type  : Fast 1200mV -40C Model Removal 'FPGA_IN_SDSB-'
+Slack : -0.175
+TNS   : -0.405
+
+Type  : Fast 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.162
+TNS   : -0.626
+
+Type  : Fast 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -0.102
+TNS   : -0.254
+
+Type  : Fast 1200mV -40C Model Removal 'Microcomputer:inst|cpuClock'
+Slack : -0.050
+TNS   : -0.100
+
+Type  : Fast 1200mV -40C Model Removal 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.043
+TNS   : -0.086
+
+Type  : Fast 1200mV -40C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'FPGA_IN_CDSB-'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : 0.770
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'FPGA_IN_BOARD_RESET-'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : 2.382
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_SDSB-'
+Slack : -3.000
+TNS   : -379.597
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_CDSB-'
+Slack : -3.000
+TNS   : -35.146
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FPGA_IN_BOARD_RESET-'
+Slack : -3.000
+TNS   : -5.294
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'Microcomputer:inst|cpuClock'
+Slack : -1.000
+TNS   : -356.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[4]'
+Slack : -1.000
+TNS   : -80.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ps2_keyboard:ps2_keyboard_0|debounce:debounce_ps2_clk|result'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'Counter01_32:inst5|lpm_counter:LPM_COUNTER_component|cntr_rqh:auto_generated|counter_reg_bit[16]'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'ps2_keyboard_to_ascii:inst162|ascii_new'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'CLK_50'
+Slack : 9.417
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 19.625
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 49.611
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.638
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst4|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1249.620
+TNS   : 0.000
+
+------------------------------------------------------------

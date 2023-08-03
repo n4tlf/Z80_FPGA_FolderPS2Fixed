@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Aug  1 22:51:34 2023
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : Z80_FPGA
+Top-level Entity Name : Z80_FPGA
+Family : Cyclone IV E
+Total logic elements : 4,336
+    Total combinational functions : 4,112
+    Dedicated logic registers : 814
+Total registers : 814
+Total pins : 157
+Total virtual pins : 0
+Total memory bits : 196,608
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
